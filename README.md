@@ -9,6 +9,7 @@
 - BE(2명) : 성바울, 전은형
 - 2022.07.18 ~ 2022.07.29
 - 프론트 [github](https://github.com/wecode-bootcamp-korea/35-1st-TURTLE-HOME-frontend) 링크
+- [포트폴리오](http://ourturtlehome.s3-website.ap-northeast-2.amazonaws.com/)
 
 # Technologies
 - Python
